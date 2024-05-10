@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aaron Beverley
-- 👀 I’m interested in all thinks learning.
+- 👀 I’m interested in all things learning.
 - 🌱 I’m currently learning to be a secondary school teacher and will be teaching software engineering.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me. Kind of a hermit and not big on talking :)
